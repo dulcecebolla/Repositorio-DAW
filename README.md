@@ -10,8 +10,9 @@ Este repositorio contiene todo el material de clase de **Lenguaje de Marcas** y 
 ## Integrantes
 
 - Víctor Moreno
-- Yassin
+- Yassin Mouali
 - Thiago
+  
 
 ## Estructura del repositorio
 
