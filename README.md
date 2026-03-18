@@ -98,6 +98,8 @@ git push
 
 Envía los cambios al repositorio remoto en GitHub.
 
+- Crear rama
+
 git checkout -b nombre-de-la-rama
 
 Este comando crea una nueva rama y cambia automáticamente a ella, permitiendo trabajar de forma independiente antes de fusionar los cambios.
