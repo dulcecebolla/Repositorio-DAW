@@ -4,5 +4,5 @@ Repositorio para guardar el material de Lenguaje de Marcas y Entornos de Desarro
 
 Integrantes:
 - Víctor Moreno
-- Yassin
-- Thiago
+- Yassin Mouali
+- Thiago Matías
