@@ -81,7 +81,7 @@ cd Repositorio-DAW
 
 ---
 
-🧠 COMANDOS DE GIT 🚀
+## 🧠 COMANDOS DE GIT 🚀
 
 💻 Comandos básicos de commit
 - Añadir los cambios al área de staging
@@ -124,7 +124,7 @@ cd Repositorio-DAW
   git log
 
 
-⭐ Conclusión
+## ⭐ Conclusión
 
 Este repositorio refleja el trabajo en equipo y el uso de herramientas profesionales de desarrollo, simulando un entorno real.
 
