@@ -86,18 +86,42 @@ cd Repositorio-DAW
 Este repositorio refleja el trabajo en equipo y el uso de herramientas profesionales de desarrollo, simulando un entorno real.
 
 💻 Comandos básicos de commit
-1️⃣ Añadir los cambios al área de staging
+- Añadir los cambios al área de staging
+
 git add <archivo>
 o para todos
 git add .
 Prepara los cambios para guardarlos en el commit.
-2️⃣ Crear el commit
+
+- Crear el commit
+
 git commit -m "docs: añadido resumen tema 1"
 Guarda los cambios con un mensaje que explica lo que se hizo.
-3️⃣ Subir el commit a GitHub
+
+- Subir el commit a GitHub
+  
 git push
+
 Envía los cambios al repositorio remoto en GitHub.
+
 git checkout -b nombre-de-la-rama
+
 Este comando crea una nueva rama y cambia automáticamente a ella, permitiendo trabajar de forma independiente antes de fusionar los cambios.
-Clonar repositorio
+
+- Cambiar de rama
+
+  git checkout rama-Nombre
+
+- Clonar repositorio
+  
+  
 git clone URL_DEL_REPOSITORIO
+
+- Entrar en la carpeta
+
+cd Repositorio-DAW
+
+- Ver historial de commits
+
+  git log
+
