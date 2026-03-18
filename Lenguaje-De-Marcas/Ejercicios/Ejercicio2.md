@@ -1,6 +1,6 @@
 EJERCICIO 2 
-1. Usa las siguientes etiquetas "<blockquote>, <em>, <mark>, <strong>, <pre>,
-<time y <cite>" del modo correcto para que se muestre la página con este aspecto.
+1. Usa las siguientes etiquetas "blockquote, em, mark, strong, pre,
+time y cite" del modo correcto para que se muestre la página con este aspecto.
 Usa como color de la página azul luminoso
 2. Pon como título de la página: Ejemplo 1 usando Blockquote, em, mark,strong,
 cite y caracteres especiales
