@@ -1,27 +1,78 @@
-# Repositorio DAW
+📚 Repositorio DAW
 
-Este repositorio contiene todo el material de clase de **Lenguaje de Marcas** y **Entornos de Desarrollo**, incluyendo:
+Bienvenido a nuestro repositorio de trabajo para las asignaturas de Lenguaje de Marcas y Entornos de Desarrollo.
 
-- Teoría resumida
-- Ejercicios con soluciones documentadas
-- Prácticas y código fuente
-- Información sobre software necesario y guías de instalación
+🚀 Descripción
 
-## Integrantes
+Este proyecto tiene como objetivo organizar y almacenar todo el material académico del curso, aplicando buenas prácticas de trabajo colaborativo con Git y GitHub.
 
-- Víctor Moreno
-- Yassin Mouali
-- Thiago Matias
+👥 Integrantes
 
-## Estructura del repositorio
+Víctor
 
-- `Lenguaje-de-Marcas/` → Teoría, ejercicios, prácticas, software
-- `Entornos-de-Desarrollo/` → Teoría, ejercicios, prácticas, software
-- `README.md` → Información general y organización
-- `.gitignore` → Archivos que no deben subirse al repositorio
+Yassin
 
-## Objetivo
+Thiago
 
-Permitir trabajar de forma colaborativa, organizada y documentada usando Git y GitHub.
+📂 Estructura del proyecto
+Repositorio-DAW/
+│
+├── Lenguaje-de-Marcas/
+│   ├── Teoria/
+│   ├── Ejercicios/
+│   ├── Practicas/
+│   └── Software/
+│
+└── Entornos-de-Desarrollo/
+    ├── Teoria/
+    ├── Ejercicios/
+    ├── Practicas/
+    └── Software/
+🛠️ Tecnologías utilizadas
 
----
+Git
+
+GitHub
+
+Markdown
+
+🔄 Metodología de trabajo
+
+Uso de ramas individuales para cada integrante
+
+Integración mediante Pull Requests
+
+Organización de tareas con Issues
+
+Commits frecuentes y descriptivos
+
+📌 Características principales
+
+✔ Organización clara del contenido
+✔ Trabajo colaborativo real
+✔ Control de versiones completo
+✔ Documentación estructurada
+
+🏁 Versión final
+
+Se ha creado la versión:
+
+v1.0-entrega
+
+como entrega final del proyecto.
+
+📖 Cómo usar este repositorio
+
+Clonar el repositorio:
+
+git clone URL_DEL_REPOSITORIO
+
+Acceder a la carpeta:
+
+cd Repositorio-DAW
+
+Explorar el contenido por asignaturas
+
+⭐ Conclusión
+
+Este repositorio refleja el trabajo en equipo y el uso de herramientas profesionales de desarrollo, simulando un entorno real.
