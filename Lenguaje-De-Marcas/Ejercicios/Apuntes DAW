@@ -1,0 +1,93 @@
+1. Conceptos básicos
+
+Explica la diferencia entre IDE y editor de código. Pon dos ejemplos de cada uno.
+
+¿Qué es un sistema de control de versiones y para qué sirve?
+
+¿Qué ventajas tiene usar Git frente a no usar control de versiones?
+
+2. Git y control de versiones
+
+Tienes este flujo:
+
+Modificas un archivo
+
+Lo añades
+
+Haces commit
+
+Escribe los comandos necesarios en Git.
+
+¿Qué hace el comando git merge?
+
+Diferencia entre:
+
+git pull
+
+git fetch
+
+Estás en una rama equivocada y has hecho cambios sin commit. ¿Qué harías?
+
+3. Testing y calidad de software
+
+¿Qué es un test unitario?
+
+Diferencia entre:
+
+Test unitario
+
+Test de integración
+
+Escribe un ejemplo simple de test (en pseudocódigo o Java/Python).
+
+4. Integración continua / despliegue
+
+¿Qué es CI/CD?
+
+¿Qué ventajas tiene automatizar pruebas?
+
+Pon un ejemplo de herramienta de integración continua.
+
+5. Configuración del entorno
+
+¿Qué es una variable de entorno?
+
+¿Por qué no se deben subir contraseñas a GitHub?
+
+¿Qué archivo usarías para ignorar archivos en Git?
+
+6. Debugging (depuración)
+
+¿Qué es un breakpoint?
+
+Diferencia entre:
+
+Step over
+
+Step into
+
+Te dan un programa que falla, ¿qué pasos seguirías para encontrar el error?
+
+7. Ejercicio práctico (nivel medio)
+
+Imagina que trabajas en equipo:
+
+3 desarrolladores
+
+Proyecto en Git
+
+Diseña un flujo de trabajo con ramas (por ejemplo: main, develop, etc.)
+
+8. Ejercicio tipo examen
+
+Explica el ciclo de vida del software incluyendo el papel del entorno de desarrollo.
+
+9. Nivel avanzado
+
+¿Qué es un contenedor y para qué sirve (por ejemplo, Docker)?
+
+Diferencia entre:
+
+Máquina virtual
+
+Contenedor
