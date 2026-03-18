@@ -23,15 +23,11 @@ Repositorio-DAW/
 │
 ├── Lenguaje-de-Marcas/
 │ ├── Teoria/
-│ ├── Ejercicios/
-│ ├── Practicas/
-│ └── Software/
+│ └── Ejercicios/
 │
 └── Entornos-de-Desarrollo/
-├── Teoria/
-├── Ejercicios/
-├── Practicas/
-└── Software/
+  ├── Teoria/
+  └── Practicas/
 
 ---
 
